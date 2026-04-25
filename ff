@@ -1,0 +1,8 @@
+<!-- Buttons -->
+        <div class="category-buttons category-box">
+            <label for="all">All</label>
+            <label for="veg">Vegetables</label>
+            <label for="fruit">Fruits</label>
+            <label for="Egg">Eggs</label>
+            <label for="Milk-Bread">Milk-Breads</label>
+        </div>
